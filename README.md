@@ -5,3 +5,9 @@ Python script to alarm you with N beeps and an alert window when any milestone r
 * python3
 * beautifulsoup4 (You can install it throught "pip install beautifulsoup4")
 
+<br><br>
+
+*PD:The examples are prepared to alert the user when Homestead arrives at go-ethereum repository*
+
+**If you liked this, you can donate to my ETH address:** 0xcd240a9c04a59d02ba8c2990c0c87d3ccab93462
+
