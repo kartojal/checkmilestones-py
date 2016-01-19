@@ -18,7 +18,7 @@ import winsound
 # Array of Milestone names, change for the desired milestone name, must be equal at the title of milestone at the Github milestone page
 milestonenames = ['Homestead', '1.3.4']
 # Array of Percent Alarm(s)
-targetpercent = ('80%','85%','90%','95%','100%') # You can setup more alarms in the same list separated by comma, like this ('10%','30%','60%,'100%')
+targetpercent = ('85%','90%','95%','100%') # You can setup more alarms in the same list separated by comma, like this ('10%','30%','60%,'80%')
 
 # Milestone full url, you need to put like the example : 'https://github.com/[ACCOUNT]/[REPOSITORY]/milestones'
 milestonesurl = 'https://github.com/ethereum/go-ethereum/milestones'
